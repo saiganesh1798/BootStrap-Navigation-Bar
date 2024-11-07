@@ -8,5 +8,11 @@ Here, you'll find detailed explanations and code examples for various Bootstrap 
 3. Search for Navigation Bar Tutorial:
 
 Within the Bootstrap documentation or using a search engine, look for tutorials specifically focused on creating a responsive navigation bar with Bootstrap. 
-Many resources are available, so choose one that aligns with your learning style 
+
+**Step by Step Process to build a Navbar**
+
+Step-1: Adding Bootstrap Navbar Component
+Step-2: Adding Logo
+Step-3: Aligning Nav Items
+Step-4: Changing Navbar Background color
 
